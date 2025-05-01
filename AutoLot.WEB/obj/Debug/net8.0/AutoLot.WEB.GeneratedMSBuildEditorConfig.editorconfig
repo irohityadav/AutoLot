@@ -17,13 +17,13 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = AutoLot.WEB
 build_property.RootNamespace = AutoLot.WEB
-build_property.ProjectDir = C:\Rohit\CodePractice\Dot Net\AutoLot\AutoLot.WEB\
+build_property.ProjectDir = C:\Rohit\CodePractice\Dot Net\AutoLot\AutoLot\AutoLot.WEB\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Rohit\CodePractice\Dot Net\AutoLot\AutoLot.WEB
+build_property.MSBuildProjectDirectory = C:\Rohit\CodePractice\Dot Net\AutoLot\AutoLot\AutoLot.WEB
 build_property._RazorSourceGeneratorDebug = 
 
 [C:/Users/irohi/.nuget/packages/microsoft.visualstudio.threading.analyzers/17.13.61/build/AdditionalFiles/vs-threading.LegacyThreadSwitchingMembers.txt]
@@ -42,30 +42,30 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = 
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot.WEB/Pages/Error.cshtml]
+[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot/AutoLot.WEB/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot.WEB/Pages/Index.cshtml]
+[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot/AutoLot.WEB/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot.WEB/Pages/Privacy.cshtml]
+[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot/AutoLot.WEB/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot.WEB/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot/AutoLot.WEB/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot.WEB/Pages/_ViewImports.cshtml]
+[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot/AutoLot.WEB/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot.WEB/Pages/_ViewStart.cshtml]
+[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot/AutoLot.WEB/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot.WEB/Pages/Shared/_Layout.cshtml]
+[C:/Rohit/CodePractice/Dot Net/AutoLot/AutoLot/AutoLot.WEB/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-nsu0ui2bla
