@@ -6,6 +6,7 @@ namespace AutoLot.API.Controllers
     [Route("[controller]")]
     public class WeatherForecastController : ControllerBase
     {
+        //Read only method
         private static readonly string[] Summaries = new[]
         {
             "Freezing", "Bracing", "Chilly", "Cool", "Mild", "Warm", "Balmy", "Hot", "Sweltering", "Scorching"
