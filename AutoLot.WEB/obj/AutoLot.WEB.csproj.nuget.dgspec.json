@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.WEB\\AutoLot.WEB.csproj": {}
+    "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.WEB\\AutoLot.WEB.csproj": {}
   },
   "projects": {
-    "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj": {
+    "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj",
+        "projectUniqueName": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj",
         "projectName": "AutoLot.Services",
-        "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj",
+        "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj",
         "packagesPath": "C:\\Users\\irohi\\.nuget\\packages\\",
-        "outputPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.Services\\obj\\",
+        "outputPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.Services\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irohi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -116,14 +116,14 @@
         }
       }
     },
-    "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.WEB\\AutoLot.WEB.csproj": {
+    "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.WEB\\AutoLot.WEB.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.WEB\\AutoLot.WEB.csproj",
+        "projectUniqueName": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.WEB\\AutoLot.WEB.csproj",
         "projectName": "AutoLot.WEB",
-        "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.WEB\\AutoLot.WEB.csproj",
+        "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.WEB\\AutoLot.WEB.csproj",
         "packagesPath": "C:\\Users\\irohi\\.nuget\\packages\\",
-        "outputPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.WEB\\obj\\",
+        "outputPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.WEB\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irohi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -141,8 +141,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj": {
-                "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj"
+              "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj": {
+                "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj"
               },
               "C:\\Rohit\\CodePractice\\Dot Net\\Chapter23_AllProjects\\AutoLot.Dal\\AutoLot.Dal.csproj": {
                 "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\Chapter23_AllProjects\\AutoLot.Dal\\AutoLot.Dal.csproj"

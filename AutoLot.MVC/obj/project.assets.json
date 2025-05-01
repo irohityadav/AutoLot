@@ -8679,13 +8679,13 @@
     },
     "AutoLot.Dal/1.0.0": {
       "type": "project",
-      "path": "../../Chapter23_AllProjects/AutoLot.Dal/AutoLot.Dal.csproj",
-      "msbuildProject": "../../Chapter23_AllProjects/AutoLot.Dal/AutoLot.Dal.csproj"
+      "path": "../../../Chapter23_AllProjects/AutoLot.Dal/AutoLot.Dal.csproj",
+      "msbuildProject": "../../../Chapter23_AllProjects/AutoLot.Dal/AutoLot.Dal.csproj"
     },
     "AutoLot.Models/1.0.0": {
       "type": "project",
-      "path": "../../Chapter23_AllProjects/AutoLot.Models/AutoLot.Models.csproj",
-      "msbuildProject": "../../Chapter23_AllProjects/AutoLot.Models/AutoLot.Models.csproj"
+      "path": "../../../Chapter23_AllProjects/AutoLot.Models/AutoLot.Models.csproj",
+      "msbuildProject": "../../../Chapter23_AllProjects/AutoLot.Models/AutoLot.Models.csproj"
     },
     "AutoLot.Services/1.0.0": {
       "type": "project",
@@ -8714,11 +8714,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.MVC\\AutoLot.MVC.csproj",
+      "projectUniqueName": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.MVC\\AutoLot.MVC.csproj",
       "projectName": "AutoLot.MVC",
-      "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.MVC\\AutoLot.MVC.csproj",
+      "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.MVC\\AutoLot.MVC.csproj",
       "packagesPath": "C:\\Users\\irohi\\.nuget\\packages\\",
-      "outputPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.MVC\\obj\\",
+      "outputPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.MVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\irohi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -8736,8 +8736,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj": {
-              "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj"
+            "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj": {
+              "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.Services\\AutoLot.Services.csproj"
             },
             "C:\\Rohit\\CodePractice\\Dot Net\\Chapter23_AllProjects\\AutoLot.Dal\\AutoLot.Dal.csproj": {
               "projectPath": "C:\\Rohit\\CodePractice\\Dot Net\\Chapter23_AllProjects\\AutoLot.Dal\\AutoLot.Dal.csproj"

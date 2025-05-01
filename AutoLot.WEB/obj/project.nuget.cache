@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6OnSX0T9AHU=",
+  "dgSpecHash": "TvB1E1vU2Nk=",
   "success": true,
-  "projectFilePath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot.WEB\\AutoLot.WEB.csproj",
+  "projectFilePath": "C:\\Rohit\\CodePractice\\Dot Net\\AutoLot\\AutoLot\\AutoLot.WEB\\AutoLot.WEB.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\irohi\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\irohi\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",

@@ -29,9 +29,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\Chapter23_AllProjects\AutoLot.Dal\AutoLot.Dal.csproj" />
-    <ProjectReference Include="..\..\Chapter23_AllProjects\AutoLot.Models\AutoLot.Models.csproj" />
+    <ProjectReference Include="..\..\..\Chapter23_AllProjects\AutoLot.Dal\AutoLot.Dal.csproj" />
+    <ProjectReference Include="..\..\..\Chapter23_AllProjects\AutoLot.Models\AutoLot.Models.csproj" />
     <ProjectReference Include="..\AutoLot.Services\AutoLot.Services.csproj" />
   </ItemGroup>
+
 
 </Project>
